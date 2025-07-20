@@ -211,7 +211,7 @@ main {
 .lots {
   margin-top: 182px;
   padding: 0 25px;
-  border: 1px solid red;
+
 }
 
 /* --- HEADING --- */
@@ -322,7 +322,7 @@ main {
   margin: 120px 0;
   column-gap: 24px;
   padding: 0 23px 55px;
-  border: 1px solid red;
+  
 }
 
 .about__column {
